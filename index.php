@@ -29,7 +29,7 @@
         .hed-go {
             height: 97px;
             width:  100%;
-            background-image: url('img/topo.jpg');
+            background-image: url('public/img/topo.jpg');
             background-size: 100%;
             margin-bottom:  50px;
             background-repeat:  no-repeat;
@@ -38,7 +38,7 @@
         .footer-go {
             height: 97px;
             width: 100%;
-            background-image: url(img/rodape.jpg);
+            background-image: url(public/img/rodape.jpg);
             background-size: 100%;
             background-repeat: no-repeat;
             margin-top:  50px;
@@ -53,7 +53,7 @@
 
         button.download-btn {
             height: 50px;
-            background-image:  url('img/download.gif');
+            background-image:  url('public/img/download.gif');
             background-size:  100% 100%;
             padding:  0;
             border:  0;
@@ -86,8 +86,8 @@
             <div class="anuncios">
                     
                 <!-- cole os codigos dos anuncios aqui! -->
-                 <img src="img/a2.jpg" width="300px" style="max-width: 100%;">
-                 <img src="img/a2.jpg" width="300px" style="max-width: 100%;">
+                 <img src="public/img/a2.jpg" width="300px" style="max-width: 100%;">
+                 <img src="public/img/a2.jpg" width="300px" style="max-width: 100%;">
                  <br>
                  <br>
                 <!-- cole os codigos dos anuncios aqui! -->
@@ -96,7 +96,7 @@
 
 			<div class="openlink" id="open">
                 <p>Carregando...</p>
-				<img src="img/carregando.gif" alt="">			
+				<img src="public/img/carregando.gif" alt="">			
 			</div>
 			
 			<div class="footer-go"></div>
