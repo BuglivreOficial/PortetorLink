@@ -1,0 +1,21 @@
+{
+    "name": "nano-trolando/protetor-link",
+    "description": "Protetotetor de link",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BugLivreOficial",
+            "email": "buglivreoficial@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "pecee/simple-router": "^5.4",
+        "twig/twig": "^3.0"
+    }
+}

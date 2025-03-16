@@ -24,4 +24,4 @@
 	<button class="download-btn"></button>
 </a>
 
-<!-- <meta http-equiv="refresh" content="5;URL=<?php //echo $site['url'].'?token='.$url['i']; ?>" /> -->
+<meta http-equiv="refresh" content="5;URL=<?php echo $site['url'].'?token='.$url['i']; ?>" />
