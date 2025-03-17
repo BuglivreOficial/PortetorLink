@@ -13,10 +13,8 @@ class HomeController {
     }
     
     public function index() {
-        $this->twig->render("teste.html", [
-            "titulo" => "teste",
-            "nome" => "Teste",
-            "data" => "17738392"
+        $this->twig->render("user/index.html", [
+            "app_name" => APP_NAME,
         ]);
     }
 }

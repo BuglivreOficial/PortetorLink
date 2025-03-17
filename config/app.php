@@ -1,6 +1,6 @@
 <?php
 
-define("APP_NAME", "Nano Trolando©");
+define("APP_NAME", "Nano Trolando™");
 //Obrigatório colocar a url do site nessas configuração 
 define("URL_SITE", "");
 
